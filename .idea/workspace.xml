@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46c46cdd-dcb0-440c-ab37-c9ab9a4f429a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>blue</find>
+      <find>gradient</find>
+      <find>#8089ff</find>
+      <find>gradient-blue</find>
+      <find>$indigo</find>
+      <find>ui-gradient-blue</find>
+      <find>header</find>
+      <find>ui-gradient-peach</find>
+      <find>peach</find>
+      <find>gradient-peach</find>
+      <find>head</find>
+      <find>3.6</find>
+      <find>gradie</find>
+      <find>icon-circle</find>
+      <find>heading</find>
+      <find>step-wrapper</find>
+      <find>line-height: 1.4</find>
+      <find>font</find>
+      <find>ui-curve</find>
+      <find>before</find>
+      <find>40px</find>
+      <find>ui-foo</find>
+      <find>about</find>
+      <find>btn</find>
+      <find>color</find>
+      <find>app-i</find>
+      <find>footer-he</find>
+      <find>curve</find>
+      <find>hover</find>
+      <find>showcase</find>
+    </findStrings>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectId" id="1TEb0IZuaNJudsZ20HTLXh2pUNP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46c46cdd-dcb0-440c-ab37-c9ab9a4f429a" name="Default" comment="" />
+      <created>1531892689537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531892689537</updated>
+      <workItem from="1531892690800" duration="14020000" />
+      <workItem from="1531989134064" duration="11789000" />
+      <workItem from="1534971429053" duration="638000" />
+      <workItem from="1539428187433" duration="1036000" />
+      <workItem from="1552133268707" duration="3000" />
+      <workItem from="1562747397186" duration="225000" />
+      <workItem from="1562825898690" duration="416000" />
+      <workItem from="1573027979574" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
