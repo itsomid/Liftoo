@@ -1,0 +1,56 @@
+.ui-gradient-liftoo{
+  background-image: linear-gradient(90deg, #2BBEF8 11%, #6659FE 89%);
+  & .heading{
+    color: #FFF;
+  }
+  & .paragraph{
+    color: #FFF;
+  }
+}
+.plat-logo{
+  display: flex;
+  justify-content: center;
+}
+.liftoo-color{
+  color: #2BBEF8;
+}
+.liftoo-bg{
+  background-color: #2BBEF8;
+}
+.liftoo-footer-bg{
+  background-color: #403B4A;
+}
+.liftoo-btn-white{
+  background-color: white;
+  color: #2BBEF8 !important;
+}
+.liftoo-feature{
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.liftoo-sub-heading{
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: #2BBEF8;
+}
+.liftoo-sub-dec{
+  @include media-breakpoint-down(sm){
+    justify-content: center;
+  }
+}
+.liftoo-paragraph{
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color: #9B9B9B;
+}
+.liftoo-bg-img{
+  background: url("../img/backgrounds/Image-Back-Liftoo.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
